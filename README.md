@@ -1,0 +1,1 @@
+Create file .token with Discord token
